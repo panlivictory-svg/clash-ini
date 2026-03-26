@@ -17,6 +17,7 @@ ruleset=📀 Steam_cn,https://raw.githubusercontent.com/blackmatrix7/ios_rule_sc
 ruleset=🌍 国外,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list
 ruleset=🌍 国外,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Proxy.list
 ruleset=🌍 国外,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
+ruleset=➡️ 国内,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/China/China.list
 ruleset=➡️ 国内,[]GEOIP,CN
 ruleset=➡️ 漏网之鱼,[]FINAL
 
