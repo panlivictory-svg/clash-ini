@@ -1,4 +1,5 @@
 ;1、域名组
+ruleset=💻 PC端分流,[]SRC-IP-CIDR,192.168.1.13/32
 ruleset=👽 AI1,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI.list
 ruleset=👽 AI2,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI2.list
 ruleset=👽 Apple,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.list
